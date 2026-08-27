@@ -1,0 +1,18 @@
+# Ignore everything by default (client material must stay off GitHub)
+*
+!.gitignore
+!README.md
+!images/
+!images/**
+!x_ads_Appeal.html
+!x_ads_combined_guidance.html
+!x_ads_creative_guidance.html
+!x_ads_new_features_email.html
+!x_ads_profile_guidance.html
+
+# Extra safety: never commit these even if a later rule allows *
+beatrust_*
+画像:Base64/
+*.pdf
+*.txt
+.DS_Store
