@@ -5,6 +5,7 @@ Public image host for X Ads policy-awareness HTML emails.
 Preferred (jsDelivr):
 
 - `https://cdn.jsdelivr.net/gh/hikarik-xai/x-ads-policy-emails@main/images/appeal.jpg`
+- `https://cdn.jsdelivr.net/gh/hikarik-xai/x-ads-policy-emails@main/images/appeal_UI_white.jpg`
 - `https://cdn.jsdelivr.net/gh/hikarik-xai/x-ads-policy-emails@main/images/profile.jpg`
 - `https://cdn.jsdelivr.net/gh/hikarik-xai/x-ads-policy-emails@main/images/ng1.jpg`
 - `https://cdn.jsdelivr.net/gh/hikarik-xai/x-ads-policy-emails@main/images/ng2.jpg`
@@ -13,6 +14,7 @@ Preferred (jsDelivr):
 Fallback (GitHub raw):
 
 - `https://raw.githubusercontent.com/hikarik-xai/x-ads-policy-emails/main/images/appeal.jpg`
+- `https://raw.githubusercontent.com/hikarik-xai/x-ads-policy-emails/main/images/appeal_UI_white.jpg`
 - `https://raw.githubusercontent.com/hikarik-xai/x-ads-policy-emails/main/images/profile.jpg`
 - `https://raw.githubusercontent.com/hikarik-xai/x-ads-policy-emails/main/images/ng1.jpg`
 - `https://raw.githubusercontent.com/hikarik-xai/x-ads-policy-emails/main/images/ng2.jpg`
